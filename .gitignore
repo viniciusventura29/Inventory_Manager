@@ -32,3 +32,5 @@ inmana-*.tar
 npm-debug.log
 /assets/node_modules/
 
+# Language Support
+.elixir_ls
