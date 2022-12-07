@@ -9,6 +9,8 @@ defmodule InmanaWeb.RestaurantsController do
       conn
       |> put_status(:ok)
       |> render("create.json", restaurant: restaurant)
+
+
     end
   end
 end
